@@ -15,7 +15,7 @@ namespace Lab20.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "A little to know about the man himself...";
 
             return View();
         }
